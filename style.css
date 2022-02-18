@@ -1,0 +1,37 @@
+body {
+    background-color: rgba(92, 176, 255, 0.452);
+    font-family: sans-serif;
+}
+
+h1 {
+    background-color: white;
+    text-align: center;
+}
+
+img {
+    height: auto;
+    width:500px;
+    display: block;
+    align-self: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+ul { 
+    text-align: center;
+    list-style-type:none;
+    font-size: xx-large;
+}
+
+button {
+    background-color: rgb(22, 9, 58);
+    border-radius: 12px;
+    box-shadow: 2px 4px;
+    width: 400px;
+    height: 50px;
+}
+
+a {
+    font-size: large;
+    color: white;
+}
